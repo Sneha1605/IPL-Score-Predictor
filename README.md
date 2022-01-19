@@ -5,3 +5,4 @@ The application is built primarily using flask framework and HTML, CSS and Javas
 
 This application can be used by the team management to choose the best fit player. This project will majorly help the audience to know the winning chances of their favorite team. This project can be extended to predict score in other formats of matches including ODI and Test matches. 
 
+Demo URL: https://ipl-crics.herokuapp.com/
